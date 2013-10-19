@@ -152,7 +152,7 @@ layout: home
 <!-- /Call to Action -->
 
 <!-- Footer -->
-<footer>
+<div>
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
@@ -166,6 +166,6 @@ layout: home
       </div>
     </div>
   </div>
-</footer>
+</div>
 <!-- /Footer -->
 
