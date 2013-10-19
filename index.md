@@ -8,7 +8,6 @@ layout: home
   <ul class="sidebar-nav">
     <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"><i class="icon-remove"></i></a>
     <li class="sidebar-brand"><a href="http://www.istanbulcoders.org">Istanbul Coders</a></li>
-    <li><a href="/">Anasayfa</a></li>
     <li><a href="/next-meeting">Bir sonraki buluşma</a></li>
     <li><a href="/past-meetings">Geçmiş buluşmalar</a></li>
     <li><a href="/about">Hakkımızda</a></li>
