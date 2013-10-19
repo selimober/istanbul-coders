@@ -1,0 +1,4 @@
+Gemfile.lock
+*.sublime*
+_site
+.DS_Store

@@ -4,6 +4,7 @@ html,
 body {
   height: 100%;
   width: 100%;
+  font-size: 16px;
 }
 
 .vert-text {
@@ -17,6 +18,17 @@ body {
   margin: 0;
   font-size: 4.5em;
   font-weight: 700;
+}
+
+.vert-text .btn {
+  background-color: rgb(191,220,122,0.7);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#BFDC7A), to(#8EBF45));
+  background-image: -webkit-linear-gradient(top, #BFDC7A, #8EBF45);
+  background-image:    -moz-linear-gradient(top, #BFDC7A, #8EBF45);
+  background-image:     -ms-linear-gradient(top, #BFDC7A, #8EBF45);
+  background-image:      -o-linear-gradient(top, #BFDC7A, #8EBF45);
+  border: none;
+  color: #6a6340;
 }
 
 /* Side Menu */
@@ -198,3 +210,54 @@ i.service-icon:hover {
 footer {
   padding: 100px 0;
 }
+
+/* Home page ribbon */
+.ribbon-wrapper-green {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.ribbon-green {
+  font: bold 15px Sans-Serif;
+  text-align: center;
+  text-shadow: rgba(255,255,255,0.5) 0px 1px 0px;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform:    rotate(-45deg);
+  -ms-transform:     rotate(-45deg);
+  -o-transform:      rotate(-45deg);
+  position: relative;
+  padding: 7px 0;
+  left: -15px;
+  top: 100px;
+  width: 275px;
+  background-color: #BFDC7A;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#BFDC7A), to(#8EBF45));
+  background-image: -webkit-linear-gradient(top, #BFDC7A, #8EBF45);
+  background-image:    -moz-linear-gradient(top, #BFDC7A, #8EBF45);
+  background-image:     -ms-linear-gradient(top, #BFDC7A, #8EBF45);
+  background-image:      -o-linear-gradient(top, #BFDC7A, #8EBF45);
+  -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+  -moz-box-shadow:    0px 0px 3px rgba(0,0,0,0.3);
+  box-shadow:         0px 0px 3px rgba(0,0,0,0.3);
+}
+
+.ribbon-green a {
+  text-decoration: none;
+  color: #6a6340;
+}
+
+/* Meetings */
+.meeting-info {
+  padding-top: 65px;
+  background-color: #7fbbda;
+  color: white;
+}
+
+.meeting-info a {
+  color: white;
+}
+
