@@ -21,7 +21,7 @@ layout: home
   <div class="vert-text">
     <h1>Istanbul Coders</h1>
     <h3><em>Mesleğinde</em> daha <em>iyiyi</em> arayan bir grup insan.</h3>
-    <a href="#intro" class="btn btn-default btn-lg">Find Out More</a>
+    <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
   </div>
   <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="/next-meeting">
     24 Ekim <br/>
