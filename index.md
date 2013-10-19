@@ -64,7 +64,7 @@ layout: home
         <div class="service-item">
           <i class="service-icon icon-magnet"></i>
           <h4>Networking</h4>
-          <p>İşte TDD hakkında konuşurken kendinizi yalnız veya uzaylıymış gibi mi hissediyorsunuz? Diğer uzaylılarla tanışmak ister misiniz? Belki de bir fikriniz var? Burda, konuşmaktan keyif alacağınız birilerine rastlayacağınızı düşünüyoruz.</p>
+          <p>İşte TDD hakkında konuşurken kendinizi yalnız veya uzaylı gibi mi hissediyorsunuz? Burada, konuşmaktan keyif alacağınız birilerine rastlayacağınızı düşünüyoruz.</p>
         </div>
       </div>
       <div class="col-md-2 text-center">
@@ -137,13 +137,7 @@ layout: home
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
         <h3>Mail listemize katılın!</h3>
-        <form class="form-inline" role="form">
-          <div class="form-group">
-            <label class="sr-only" for="exampleInputEmail2">Email adresiniz</label>
-            <input type="email" class="form-control" id="email" placeholder="Enter email">
-          </div>
-          <button type="submit" class="btn btn-default">Katıl!</button>
-        </form>
+        <a href="mailto:istanbul-coders+subscribe@googlegroups.com">istanbul-coders+subscribe@googlegroups.com</a>
       </div>
     </div>
   </div>
@@ -151,7 +145,7 @@ layout: home
 <!-- /Call to Action -->
 
 <!-- Footer -->
-<div>
+<div class="footer">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">

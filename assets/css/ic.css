@@ -205,9 +205,13 @@ i.service-icon:hover {
   margin: 10px;
 }
 
+.call-to-action a {
+  color:white;
+}
+
 /* Footer */
 
-footer {
+div.footer {
   padding: 100px 0;
 }
 
