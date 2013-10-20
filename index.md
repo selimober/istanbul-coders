@@ -10,7 +10,6 @@ layout: home
     <li class="sidebar-brand"><a href="http://www.istanbulcoders.org">Istanbul Coders</a></li>
     <li><a href="/next-meeting">Bir sonraki buluşma</a></li>
     <li><a href="/past-meetings">Geçmiş buluşmalar</a></li>
-    <li><a href="/about">Hakkımızda</a></li>
     <li><a href="/contact">İletişim</a></li>
   </ul>
 </div>
@@ -24,7 +23,7 @@ layout: home
     <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
   </div>
   <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="/next-meeting">
-    24 Ekim <br/>
+    Sonraki Buluşma : 24 Ekim <br/>
     Twitter on Node & Redis
   </a></div></div>
 </div>
@@ -57,28 +56,40 @@ layout: home
         <div class="service-item">
           <i class="service-icon icon-rocket"></i>
           <h4>Sürekli Gelişim</h4>
-          <p>Yazılımda ustalığınızdan tatminkar değil misiniz? Güzel! Biz de öyle. Sürekli çıtayı yükseltmenin yollarını arıyoruz ve bu yüzden burdayız.</p>
+          <p>Yazılımda ustalığınızdan tatminkar değil misiniz? Güzel! Biz de öyle. Sürekli çıtayı yükseltmenin yollarını arıyoruz ve bu yüzden burdayız. Sektörümüz dünyada çok hızlı ilerliyor, gelişmelere gözümüzü kapatmanın pahalıya mal olacağını biliyoruz. Bunu farketmeyen kalmasın istiyoruz.</p>
         </div>
       </div>
       <div class="col-md-2 text-center">
         <div class="service-item">
           <i class="service-icon icon-magnet"></i>
           <h4>Networking</h4>
-          <p>İşte TDD hakkında konuşurken kendinizi yalnız veya uzaylı gibi mi hissediyorsunuz? Burada, konuşmaktan keyif alacağınız birilerine rastlayacağınızı düşünüyoruz.</p>
+          <p>İş yerinde TDD hakkında konuşurken kendinizi yalnız veya uzaylı gibi mi hissediyorsunuz? Burada, konuşmaktan keyif alacağınız birilerine rastlayacağınızı düşünüyoruz...</p>
         </div>
       </div>
       <div class="col-md-2 text-center">
         <div class="service-item">
           <i class="service-icon icon-shield"></i>
           <h4>Paylaşmak</h4>
-          <p>Şu sözü bilirsiniz: "Eğer 6 yaşındaki bir çocuğa anlatamıyorsanız, o konuyu siz de anlamamışınızdır." Dinlemeye hazırız. İster uzman olun, ister başlangıç seviyesinde. Bizim için farketmez.</p>
+          <p>
+İster uzman olun, ister başlangıç seviyesinde, mutlaka başkalarına faydası olabilecek bir şeyi biliyorsunuz. Bilginizi paylaşın.
+
+İçinde yaşadığınız ekosisteme katkıda bulunmak önemlidir.
+
+Bizden öncekiler için düşündüklerimizi, bizden sonrakiler bizim için düşünmesin!
+
+</p>
         </div>
       </div>
       <div class="col-md-2 text-center">
         <div class="service-item">
           <i class="service-icon icon-pencil"></i>
           <h4>Birlikte yaratmak</h4>
-          <p>Bu aslında daha çok bir dilek. Bir süre sonra güçleri birleştirip topluluğa değer katacak birşey üretmeyi umuyoruz. Bunu yapmamızda bize yardım edin.</p>
+          <p>
+Aşılamak istediğimiz konulardan biriside hangi seviyede olursanız olun bu topluluğa değer katabilirsiniz.
+
+Gelin birlikte öğrenelim, öğretelim ve daha kaliteli kodlar yazalım.
+
+          </p>
         </div>
       </div>
     </div>
