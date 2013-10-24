@@ -56,7 +56,7 @@ layout: home
         <div class="service-item">
           <i class="service-icon icon-rocket"></i>
           <h4>Sürekli Gelişim</h4>
-          <p>Yazılımda ustalığınızdan tatminkar değil misiniz? Güzel! Biz de öyle. Sürekli çıtayı yükseltmenin yollarını arıyoruz ve bu yüzden burdayız. Sektörümüz dünyada çok hızlı ilerliyor, gelişmelere gözümüzü kapatmanın pahalıya mal olacağını biliyoruz. Bunu farketmeyen kalmasın istiyoruz.</p>
+          <p>Yazılımda ustalığınızdan tatminkar değil misiniz? Güzel! Biz de öyle. Sürekli çıtayı yükseltmenin yollarını arıyoruz ve bu yüzden burdayız.</p>
         </div>
       </div>
       <div class="col-md-2 text-center">
@@ -70,12 +70,7 @@ layout: home
         <div class="service-item">
           <i class="service-icon icon-shield"></i>
           <h4>Paylaşmak</h4>
-          <p>
-İster uzman olun, ister başlangıç seviyesinde, mutlaka başkalarına faydası olabilecek bir şeyi biliyorsunuz. Bilginizi paylaşın.
-
-İçinde yaşadığınız ekosisteme katkıda bulunmak önemlidir.
-
-Bizden öncekiler için düşündüklerimizi, bizden sonrakiler bizim için düşünmesin!
+          <p>İster uzman olun, ister başlangıç seviyesinde, mutlaka başkalarına faydası olabilecek bir şeyi biliyorsunuz. Bilginizi paylaşın. İçinde yaşadığınız ekosisteme katkıda bulunmak önemlidir. Bizden öncekiler için düşündüklerimizi, bizden sonrakiler bizim için düşünmesin!
 
 </p>
         </div>
@@ -84,12 +79,7 @@ Bizden öncekiler için düşündüklerimizi, bizden sonrakiler bizim için dü�
         <div class="service-item">
           <i class="service-icon icon-pencil"></i>
           <h4>Birlikte yaratmak</h4>
-          <p>
-Aşılamak istediğimiz konulardan biriside hangi seviyede olursanız olun bu topluluğa değer katabilirsiniz.
-
-Gelin birlikte öğrenelim, öğretelim ve daha kaliteli kodlar yazalım.
-
-          </p>
+          <p>Aşılamak istediğimiz konulardan birisi de hangi seviyede olursanız olun bu topluluğa değer katabilirsiniz. Gelin birlikte öğrenelim, öğretelim ve daha kaliteli kodlar yazalım.</p>
         </div>
       </div>
     </div>

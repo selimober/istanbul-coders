@@ -30,4 +30,3 @@ Bu doğrultuda hızlıca üstünden geçerek kullanılacak araçlar şunlar:
 Amaçlanan, örnek uygulama sayesinde bahsi geçen araçlar hakkında fikir edinmek, artılarını, eksilerini (ehemm, CoffeeScript'mi dediniz?) tartışmak, ve alternatif araçları/syöntemleri tanımak.
 
 Laptop'ları unutmayın! :)
-
