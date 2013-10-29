@@ -24,7 +24,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="/next-meeting">
     Sonraki Buluşma : 31 Ekim <br/>
-    Twitter on Node & Redis
+    Web uygulamalarında güvenlik
   </a></div></div>
 </div>
 <!-- /Full Page Image Header Area -->
