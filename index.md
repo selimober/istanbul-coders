@@ -23,7 +23,7 @@ layout: home
     <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
   </div>
   <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="/next-meeting">
-    Sonraki Buluşma : 24 Ekim <br/>
+    Sonraki Buluşma : 31 Ekim <br/>
     Twitter on Node & Redis
   </a></div></div>
 </div>

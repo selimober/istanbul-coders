@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2013-10-24 22:00:00
+date: 2013-10-24 19:00:00
 speaker: Selim Öber
 speaker-homepage: http://www.selimober.com
 speaker-twitter: selimober
