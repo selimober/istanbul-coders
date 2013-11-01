@@ -23,8 +23,8 @@ layout: home
     <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
   </div>
   <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="/next-meeting">
-    Sonraki Buluşma : 31 Ekim <br/>
-    Web uygulamalarında güvenlik
+    Sonraki Buluşma : 7 Kasım <br/>
+    Clojure Programlama - Giriş
   </a></div></div>
 </div>
 <!-- /Full Page Image Header Area -->
