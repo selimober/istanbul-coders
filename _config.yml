@@ -3,3 +3,4 @@ markdown: rdiscount
 pygments: true
 permalink: pretty
 exclude: ['Gemfile', 'Gemfile.lock', 'istanbul-coders.sublime-project']
+timezone: Europe/Istanbul
