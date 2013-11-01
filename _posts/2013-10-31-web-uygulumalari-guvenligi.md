@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2013-10-31 19:00:00
+date: 2013-10-31 19:00:00 EET
 speaker: Serdar Büyüktemiz
 speaker-homepage: http://www.serdarb.com/
 speaker-twitter: hserdarb

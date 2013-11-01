@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2013-11-07 19:00:00
+date: 2013-11-07 19:00:00 EET
 speaker: Halit Olalı
 speaker-homepage: http://tr.linkedin.com/in/halito
 speaker-twitter: codemomentum
