@@ -138,7 +138,7 @@ layout: home
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
         <h3>Mail listemize katılın!</h3>
-        <a href="mailto:istanbul-coders+subscribe@googlegroups.com">istanbul-coders+subscribe@googlegroups.com</a>
+        <a href="https://groups.google.com/forum/#!forum/istanbul-coders">https://groups.google.com/forum/#!forum/istanbul-coders</a>
       </div>
     </div>
   </div>
