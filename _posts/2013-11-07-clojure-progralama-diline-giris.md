@@ -19,3 +19,9 @@ Bu hafta Clojure programlama diline giris ozelligini tasiyan bir sunum yapacagiz
 * Clojure a Giris
 * Kimler Kullaniyor?
 * Biz nasil kullaniyoruz?
+
+-----------
+
+Sunum için: [istanbul_coders_clojure.pdf](/assets/meetups/2013-11-07-clojure/istanbul_coders_clojure.pdf)
+
+Birkaç kare: <a href="/assets/meetups/2013-11-07-clojure/IMAG0383.jpg"><img src="/assets/meetups/2013-11-07-clojure/IMAG0383.jpg" class="meeting-thumb"></a> <a href="/assets/meetups/2013-11-07-clojure/IMAG0384.jpg"><img src="/assets/meetups/2013-11-07-clojure/IMAG0384.jpg" class="meeting-thumb"></a>
