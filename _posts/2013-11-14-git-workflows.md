@@ -10,3 +10,5 @@ title: Git Workflows
 ---
 
 Konu basliklari guncellenecek.
+
+Etkinliğe katılmak için lütfen kayıt olun: [https://www.eventbrite.com/event/9257520493](https://www.eventbrite.com/event/9257520493)
