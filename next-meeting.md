@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_url: meetings/2013/11/07/clojure-progralama-diline-giris
+redirect_url: meetings/2013/11/14/git-workflows
 ---
 
