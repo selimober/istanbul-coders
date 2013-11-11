@@ -9,6 +9,11 @@ venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
 title: Git Workflows
 ---
 
-Konu basliklari guncellenecek.
+Bu hafta Lemi bizlere git-flow ve git best practice'lerinden bahsedecek. Konu başlıkları kısaca şöyle:
 
-Etkinliğe katılmak için lütfen kayıt olun: [https://www.eventbrite.com/event/9257520493](https://www.eventbrite.com/event/9257520493)
+* Git Porcelain Commands
+* Git Branching Model: git-flow
+* How to implement a feature via git-flow principles
+* Git Best Practices and Practical Tips
+
+Kayıt için: [https://www.eventbrite.com/event/9257520493](https://www.eventbrite.com/event/9257520493)
