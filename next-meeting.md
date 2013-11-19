@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_url: meetings/2013/11/14/git-workflows
+redirect_url: meetings/2013/11/21/java-8-project-lambda
 ---
 
