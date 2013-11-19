@@ -276,3 +276,14 @@ img#logo {
   margin-bottom: 48px;
   border-radius: 25px 0;
 }
+
+div#author-photo {
+  float: left;
+  width: 75px;
+  height: 75px;
+}
+
+div#author-photo img {
+  width: 75px;
+  height: 75px;
+}

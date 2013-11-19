@@ -5,6 +5,7 @@ date: 2013-11-21 19:30:00 EET
 speaker: Isa Goksu
 speaker-homepage: http://www.isagoksu.com/
 speaker-twitter: IsaGoksu
+speaker-photo: https://pbs.twimg.com/profile_images/2668644405/ccf08b0b99b9a6614f318767522e98c7.png
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
 title: Java 8 - Project Lambda
 ---
