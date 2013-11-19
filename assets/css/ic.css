@@ -278,6 +278,8 @@ img#logo {
 }
 
 div#author-photo {
+  position: relative;
+  left: -90px;
   float: left;
   width: 75px;
   height: 75px;
@@ -286,4 +288,6 @@ div#author-photo {
 div#author-photo img {
   width: 75px;
   height: 75px;
+  border-radius: 9px;
+  box-shadow: 0 0 5px steelblue;
 }
