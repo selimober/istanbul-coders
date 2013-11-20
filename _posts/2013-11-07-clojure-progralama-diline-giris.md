@@ -5,6 +5,7 @@ date: 2013-11-07 19:00:00 EET
 speaker: Halit Olalı
 speaker-homepage: http://tr.linkedin.com/in/halito
 speaker-twitter: codemomentum
+speaker-photo: https://pbs.twimg.com/profile_images/1563558625/cartman.jpg
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
 title: Clojure Programlama Diline Giriş
 ---

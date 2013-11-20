@@ -5,8 +5,9 @@ date: 2013-10-24 19:00:00 EET
 speaker: Selim Öber
 speaker-homepage: http://www.selimober.com
 speaker-twitter: selimober
+speaker-photo: https://pbs.twimg.com/profile_images/1389899159/prof.jpg
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
-title: Redis ve Node.js kullanarak Twitter uygulaması
+title: Redis ve Node.js Kullanarak Twitter Uygulaması
 ---
 
 Bu hafta Redis ve Node.js kullanarak basit ve sadece temel özelliklerini barındıran bir Twitter implemantasyonu yazacağız.

@@ -5,6 +5,7 @@ date: 2013-11-14 19:30:00 EET
 speaker: Lemi Orhan Ergin
 speaker-homepage: http://www.lemiorhanergin.com/
 speaker-twitter: lemiorhan
+speaker-photo: https://pbs.twimg.com/profile_images/1638251489/dsc00521_1.jpg
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
 title: Git Workflows
 ---
