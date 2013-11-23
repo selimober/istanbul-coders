@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Contact information
+## Contact Information
 
 Herhangi bir soru veya öneriniz için lütfen aşağıdaki kişilerden herhangi biri ile irtibata geçiniz:
 
