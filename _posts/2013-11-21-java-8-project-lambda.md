@@ -26,3 +26,5 @@ Bu hafta Isa bizlere Java 8 ile beraber gelecek olan ve kod adı project lambda 
 * Parallel Streams
 * Infinite Streams
 
+Presentasyon'da gosterilen kodlara [Github Reposu'ndan](https://github.com/istanbul-coders/java-8-playground) erisebilirsiniz.
+
