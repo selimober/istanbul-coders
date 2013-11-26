@@ -18,13 +18,13 @@ layout: home
 <!-- Full Page Image Header Area -->
 <div class="header">
   <div class="vert-text">
-    <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />    
+    <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
     <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
   </div>
   <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="/next-meeting">
-    Sonraki Buluşma : 21 Kasım <br/>
-    Java 8 - Project Lambda
+    Sonraki Buluşma : 28 Kasım <br/>
+    Java 8 - 2nd Session
   </a></div></div>
 </div>
 <!-- /Full Page Image Header Area -->

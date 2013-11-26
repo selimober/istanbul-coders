@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2013-11-21 19:30:00 EET
+date: 2013-11-28 19:30:00 EET
 speaker: Isa Goksu
 speaker-homepage: http://www.isagoksu.com/
 speaker-twitter: IsaGoksu
@@ -9,6 +9,8 @@ speaker-photo: https://pbs.twimg.com/profile_images/2668644405/ccf08b0b99b9a6614
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
 title: Java 8 - Project Lambda
 ---
+
+_([Gecen hafta](/meetings/2013/11/21/java-8-project-lambda/) kaldigimiz yerden devam ediyoruz. Asagidaki github linkinde, Chapter 11'den devam edilecektir.)_
 
 Bu hafta Isa bizlere Java 8 ile beraber gelecek olan ve kod adı project lambda olan lambda'ları ve stream'leri detaylandıracak. Tamamı tabi ki vakit elverirse. Konu başlıkları kısaca şöyle:
 
@@ -27,13 +29,4 @@ Bu hafta Isa bizlere Java 8 ile beraber gelecek olan ve kod adı project lambda 
 * Infinite Streams
 
 Presentasyon'da gosterilen kodlara [Github Reposu'ndan](https://github.com/istanbul-coders/java-8-playground) erisebilirsiniz.
-
-Birkaç kare için:
-<a href="/assets/meetups/2013-11-21-java8-1/20131121_190245.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_190245.jpg" class="meeting-thumb"></a>
-<a href="/assets/meetups/2013-11-21-java8-1/20131121_194117.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_194117.jpg" class="meeting-thumb"></a>
-<a href="/assets/meetups/2013-11-21-java8-1/20131121_190232.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_190232.jpg" class="meeting-thumb"></a>
-<a href="/assets/meetups/2013-11-21-java8-1/20131121_184737.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_184737.jpg" class="meeting-thumb"></a>
-<a href="/assets/meetups/2013-11-21-java8-1/20131121_194143.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_194143.jpg" class="meeting-thumb"></a>
-<a href="/assets/meetups/2013-11-21-java8-1/20131121_194130.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_194130.jpg" class="meeting-thumb"></a>
-
 
