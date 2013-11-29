@@ -10,6 +10,7 @@ layout: home
     <li class="sidebar-brand"><a href="http://www.istanbulcoders.org">Istanbul Coders</a></li>
     <li><a href="/next-meeting">Bir sonraki buluşma</a></li>
     <li><a href="/past-meetings">Geçmiş buluşmalar</a></li>
+        <li><a href="/sponsorship">Sponsorluk</a></li>
     <li><a href="/contact">İletişim</a></li>
   </ul>
 </div>
