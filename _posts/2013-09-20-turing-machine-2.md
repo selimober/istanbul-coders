@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2013-09-19 19:30:00 EET
+date: 2013-09-27 19:30:00 EET
 speaker: Ayhan Alkan
 speaker-homepage: http://about.me/ismailberkan
 speaker-twitter: ayhanalkan
@@ -10,11 +10,11 @@ venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
 title: Turing Makinası Ne İşe Yarar ?
 ---
 
-Turing'in uğraştığı problem ve matematiksel temelleri
-Turing makinasının inşası
-Turing Makinası ile programlama
-Çevremizdeki her şey bir Turing Makinası mı?
-Tartışma
+- Turing'in uğraştığı problem ve matematiksel temelleri
+- Turing makinasının inşası
+- Turing Makinası ile programlama
+- Çevremizdeki her şey bir Turing Makinası mı?
+- Tartışma
 
 ------
 
