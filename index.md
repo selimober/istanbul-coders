@@ -23,9 +23,8 @@ layout: home
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
     <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
   </div>
-  <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="/next-meeting">
-    Sonraki Buluşma : 28 Kasım <br/>
-    Java 8 - 2nd Session
+  <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="/next-meeting">   Sonraki Buluşma : 4 Aralık <br/>
+   Web Servisler Paneli
   </a></div></div>
 </div>
 <!-- /Full Page Image Header Area -->
