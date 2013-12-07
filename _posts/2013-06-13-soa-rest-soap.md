@@ -4,7 +4,6 @@ category: meetings
 date: 2013-12-05 19:30:00 EET
 speaker: İstanbul Coders
 speaker-homepage: http://istanbulcoders.org/
-speaker-twitter: İstanbul Coders
 speaker-photo: http://istanbulcoders.org/assets/img/logo.png
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
 title: SOA, REST, SOAP Web Servisleri üzerine tartışma
