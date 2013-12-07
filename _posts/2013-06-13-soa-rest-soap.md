@@ -2,7 +2,7 @@
 layout: meeting
 category: meetings
 date: 2013-12-05 19:30:00 EET
-speaker: İstanbul Coders Team
+speaker: İstanbul Coders
 speaker-homepage: http://istanbulcoders.org/
 speaker-twitter: İstanbul Coders
 speaker-photo: http://istanbulcoders.org/assets/img/logo.png
