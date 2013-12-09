@@ -10,7 +10,7 @@ venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
 title: Java 8 - Project Lambda
 ---
 
-_([Gecen hafta](/meetings/2013/11/21/java-8-project-lambda/) kaldigimiz yerden devam ediyoruz. Asagidaki github linkinde, Chapter 11'den devam edilecektir.)_
+_([Gecen hafta](/meetings/2013/11/21/java-8-project-lambda) kaldigimiz yerden devam ediyoruz. Asagidaki github linkinde, Chapter 11'den devam edilecektir.)_
 
 Bu hafta Isa bizlere Java 8 ile beraber gelecek olan ve kod adı project lambda olan lambda'ları ve stream'leri detaylandıracak. Tamamı tabi ki vakit elverirse. Konu başlıkları kısaca şöyle:
 

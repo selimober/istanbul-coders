@@ -8,7 +8,7 @@ layout: home
   <ul class="sidebar-nav">
     <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"><i class="icon-remove"></i></a>
     <li class="sidebar-brand"><a href="http://www.istanbulcoders.org">Istanbul Coders</a></li>
-    <li><a href="/next-meeting">Bir sonraki buluşma</a></li>
+    <li><a href="/calendar">Etkinlik Takvimi</a></li>
     <li><a href="/past-meetings">Geçmiş buluşmalar</a></li>
         <li><a href="/sponsorship">Sponsorluk</a></li>
     <li><a href="/contact">İletişim</a></li>
@@ -23,9 +23,7 @@ layout: home
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
     <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
   </div>
-  <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="/next-meeting">   Sonraki Buluşma : 5 Aralık <br/>
-   Web Servisler Paneli
-  </a></div></div>
+  <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="meetings/2013/12/12/spyne-internals">Sonraki Buluşma : 12 Aralık<br/>Spyne Internals</a></div></div>
 </div>
 <!-- /Full Page Image Header Area -->
 
