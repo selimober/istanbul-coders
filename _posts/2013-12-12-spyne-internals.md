@@ -5,7 +5,7 @@ date: 2013-12-12 19:00:00 EET
 speaker: Burak Arslan
 speaker-homepage:
 speaker-twitter:
-speaker-photo: https://pbs.twimg.com/profile_images/2668644405/ccf08b0b99b9a6614f318767522e98c7.png
+speaker-photo:
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
 title: Spyne Internals
 ---
