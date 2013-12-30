@@ -23,7 +23,7 @@ layout: home
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
     <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
   </div>
-  <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="meetings/2014/01/02/marmara-drone-acik-kaynak-insansiz-hava-araci-kontrol-sistemi">Sonraki Buluşma : 2 Ocak<br/>Marmara Drone - Açık Kaynak İnsansız Hava Aracı Kontrol Sistemi</a></div></div>
+  <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="meetings/2014/01/02/marmara-drone-acik-kaynak-insansiz-hava-araci-kontrol-sistemi">Sonraki Buluşma : 2 Ocak<br/>Marmara Drone<br/>Açık Kaynak<br/> İnsansız Hava Aracı Kontrol Sistemi</a></div></div>
 </div>
 <!-- /Full Page Image Header Area -->
 
