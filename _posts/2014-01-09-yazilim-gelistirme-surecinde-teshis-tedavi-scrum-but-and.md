@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter:
 speaker-photo:
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
-title: Yazılım Geliştirme Sürecinde Teşhis ve Tedavi. Scrum, Scrum But, Scrum And
+title: Yazılım Geliştirme Sürecinde Teşhis ve Tedavi. Scrum, Scrum BuTT, Scrum And
 ---
 
 Bu hafta Atilla bizlere yazılım geliştirme sürecindeki sorunlar ve olası tedavilerinden bahsedecek.
