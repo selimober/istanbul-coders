@@ -25,7 +25,7 @@ layout: home
   </div>
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
-    <a href="meetings/2014/01/06/multithreading-programlama-aktor-modeli">
+    <a href="meetings/2014/01/16/multithreading-programlama-aktor-modeli">
     Sonraki Buluşma : 16 Ocak
     <br/>Multithreaded Programlama 
     <br/>Aktor Patterni ve Akka
