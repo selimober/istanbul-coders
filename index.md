@@ -25,11 +25,10 @@ layout: home
   </div>
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
-    <a href="meetings/2014/01/09/yazilim-gelistirme-surecinde-teshis-tedavi-scrum-but-and">
-    Sonraki Buluşma : 9 Ocak
-    <br/>Yazılım Geliştirme Sürecinde 
-    <br/>Teşhis ve Tedavi 
-    <br/>Scrum, Scrum BuTT, Scrum And
+    <a href="meetings/2014/01/06/multithreading-programlama-aktor-modeli">
+    Sonraki Buluşma : 16 Ocak
+    <br/>Multithreaded Programlama 
+    <br/>Aktor Patterni ve Akka
     </a></div></div>
 </div>
 

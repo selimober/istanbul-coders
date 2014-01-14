@@ -7,14 +7,14 @@ speaker-homepage:
 speaker-twitter:
 speaker-photo:
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
-title: Multithread programlama ve Aktor modeli
+title: Multithreaded Programlama, Aktor Patterni ve Akka
 ---
 
-Bu hafta Atilla bizlere yazılım geliştirme sürecindeki sorunlar ve olası tedavilerinden bahsedecek.
+Bu hafta Selim bizlere "Multithreaded Programlama, Aktor Patterni ve Akka" üzerine bir sunum yapacak.
 
-* scrum
-* kanban
-* agile development methodologies
+* Multithreaded Programlama
+* Aktor Patterni
+* Akka
 * ...
 
 Görüşmek üzereler

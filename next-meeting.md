@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_url: meetings/2013/11/28/java-8-project-lambda-2
+redirect_url: meetings/2014/01/06/multithreading-programlama-aktor-modeli
 ---
 
