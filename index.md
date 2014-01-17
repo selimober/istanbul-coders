@@ -157,8 +157,8 @@ layout: home
       <div class="col-md-6 col-md-offset-3 text-center">
         <ul class="list-inline">
           <li><a href="https://www.facebook.com/groups/istanbul.hackers/"><i class="icon-facebook icon-2x"></i></a></li>
-          <li><i class="icon-twitter icon-2x"></i></li>
-          <li><i class="icon-dribbble icon-2x"></i></li>
+          <li><a href="https://twitter.com/istanbulcoders"><i class="icon-twitter icon-2x"></i></a></li>
+          <li><a href="https://github.com/istanbul-coders"><i class="icon-github icon-2x"></i></a></li>
         </ul>
         <hr>
         <p>Copyright &copy; Istanbul Coders 2013</p>
