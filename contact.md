@@ -13,6 +13,4 @@ Herhangi bir soru veya öneriniz için lütfen aşağıdaki kişilerden herhangi
 * [Can Yaman](mailto:can@yaman.me)
 
 
-Mail listemize katılın!
-
-(https://groups.google.com/forum/#!forum/istanbul-coders)
+Mail listesi!(https://groups.google.com/forum/#!forum/istanbul-coders)
