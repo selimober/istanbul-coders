@@ -14,4 +14,5 @@ Herhangi bir soru veya öneriniz için lütfen aşağıdaki kişilerden herhangi
 
 
 Mail listemize katılın!
-https://groups.google.com/forum/#!forum/istanbul-coders
+
+(https://groups.google.com/forum/#!forum/istanbul-coders)
