@@ -25,10 +25,9 @@ layout: home
   </div>
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
-    <a href="meetings/2014/01/16/multithreading-programlama-aktor-modeli">
-    Sonraki Buluşma : 16 Ocak
-    <br/>Multithreaded Programlama 
-    <br/>Aktor Patterni ve Akka
+    <a href="meetings/2014/01/23/agile-scrum-roles">
+    Sonraki Buluşma : 23 Ocak
+    <br/>Scrum
     </a></div></div>
 </div>
 
