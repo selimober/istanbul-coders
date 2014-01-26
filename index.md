@@ -6,7 +6,7 @@ layout: home
 <div id="sidebar-wrapper">
 <a id="menu-toggle" href="#" class="btn btn-primary btn-lg toggle"><i class="icon-reorder"></i></a>
   <ul class="sidebar-nav">
-    <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"><i class="icon-remove"></i></a>
+    <li><a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"><i class="icon-remove"></i></a></li>
     <li class="sidebar-brand"><a href="http://www.istanbulcoders.org">Istanbul Coders</a></li>
     <li><a href="/calendar">Etkinlik Takvimi</a></li>
     <li><a href="/past-meetings">Geçmiş buluşmalar</a></li>
