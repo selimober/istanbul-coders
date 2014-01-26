@@ -25,9 +25,9 @@ layout: home
   </div>
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
-    <a href="meetings/2014/01/23/agile-scrum-roles">
-    Sonraki Buluşma : 23 Ocak
-    <br/>Scrum
+    <a href="meetings/2014/01/30/nosql-cassandra">
+    Sonraki Buluşma : 30 Ocak
+    <br/>Scalable NoSQL DBs, Cassandra
     </a></div></div>
 </div>
 
