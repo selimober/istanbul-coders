@@ -22,6 +22,9 @@ layout: home
     <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
     <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
+    <br/>
+    <h3>Mail listemize katılın!</h3>
+<a href="https://groups.google.com/forum/#!forum/istanbul-coders">groups.google.com/forum/#!forum/istanbul-coders</a>
   </div>
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
@@ -111,24 +114,24 @@ layout: home
     <div class="row">
       <div class="col-md-4 col-md-offset-2 text-center">
         <div class="portfolio-item">
-          <a href="#"><img class="img-portfolio img-responsive" src="/assets/img/home-meeting-1.jpeg"></a>
+          <img class="img-portfolio img-responsive" src="/assets/img/home-meeting-1.jpeg" alt="istanbul coders" />
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="portfolio-item">
-          <a href="#"><img class="img-portfolio img-responsive" src="/assets/img/home-meeting-2.jpeg"></a>
+          <img class="img-portfolio img-responsive" src="/assets/img/home-meeting-2.jpeg" alt="istanbul coders" />
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-md-4 col-md-offset-2 text-center">
         <div class="portfolio-item">
-          <a href="#"><img class="img-portfolio img-responsive" src="/assets/img/home-meeting-3.jpeg"></a>
+          <img class="img-portfolio img-responsive" src="/assets/img/home-meeting-3.jpeg" alt="istanbul coders" />
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="portfolio-item">
-          <a href="#"><img class="img-portfolio img-responsive" src="/assets/img/home-meeting-4.jpeg"></a>
+          <img class="img-portfolio img-responsive" src="/assets/img/home-meeting-4.jpeg" alt="istanbul coders" />
         </div>
       </div>
     </div>
@@ -142,7 +145,7 @@ layout: home
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
         <h3>Mail listemize katılın!</h3>
-        <a href="https://groups.google.com/forum/#!forum/istanbul-coders">https://groups.google.com/forum/#!forum/istanbul-coders</a>
+        <a href="https://groups.google.com/forum/#!forum/istanbul-coders">groups.google.com/forum/#!forum/istanbul-coders</a>
       </div>
     </div>
   </div>
