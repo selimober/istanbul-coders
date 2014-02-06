@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/01/16/multithreading-programlama-aktor-modeli
+redirect_url: meetings/2014/02/06/front-end-first-development-philosophy
 ---
 
