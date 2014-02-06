@@ -21,10 +21,7 @@ layout: home
   <div class="vert-text">
     <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
-    <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
-    <br/>
-    <h3>Mail listemize katılın!</h3>
-<a href="https://groups.google.com/forum/#!forum/istanbul-coders">groups.google.com/forum/#!forum/istanbul-coders</a>
+    <a href="https://groups.google.com/forum/#!forum/istanbul-coders" target="_blank" class="btn btn-default btn-lg">Keşfet</a>        
   </div>
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
