@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 13 Şubat
-    <br/>Storm  <br/>distributed computation
+    <br/>Storm  <br/>Distributed Computation
     </a></div></div>
 </div>
 
