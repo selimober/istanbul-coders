@@ -25,9 +25,9 @@ layout: home
   </div>
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
-    <a href="meetings/2014/02/06/front-end-first-development-philosophy">
-    Sonraki Buluşma : 6 Şubat
-    <br/>Front-end First <br/>Development Philosophy
+    <a href="next-meeting">
+    Sonraki Buluşma : 13 Şubat
+    <br/>Storm  <br/>distributed computation
     </a></div></div>
 </div>
 
