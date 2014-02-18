@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 13 Şubat
-    <br/>Storm  <br/>Distributed Computation
+    Sonraki Buluşma : 20 Şubat
+    <br/>Microservice Governance &  <br/>Zookeper
     </a></div></div>
 </div>
 
@@ -161,7 +161,7 @@ layout: home
           <li><a href="https://github.com/istanbul-coders"><i class="icon-github icon-2x"></i></a></li>
         </ul>
         <hr>
-        <p>Copyright &copy; Istanbul Coders 2013</p>
+        <p>Copyright &copy; Istanbul Coders 2014</p>
       </div>
     </div>
   </div>
