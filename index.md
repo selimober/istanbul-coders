@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 20 Şubat
-    <br/>Microservice Governance &  <br/>Zookeper
+    <br/>Use Case Writing Workshop &  <br/> to Elicit Software Requirements
     </a></div></div>
 </div>
 
