@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 20 Şubat
+    Sonraki Buluşma : 5 Mart
     <br/>Use Case Writing Workshop to <br/> Elicit Software Requirements
     </a></div></div>
 </div>
