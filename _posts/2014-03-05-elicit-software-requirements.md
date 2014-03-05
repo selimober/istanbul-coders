@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2014-03-05 19:00:00 EET
+date: 2014-03-06 19:00:00 EET
 speaker: Mert Nuhoglu
 speaker-homepage: 
 speaker-twitter: mertnuhoglu
