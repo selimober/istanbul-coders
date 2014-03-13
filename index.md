@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 6 Mart
-    <br/>Use Case Writing Workshop to <br/> Elicit Software Requirements
+    Sonraki Buluşma : 13 Mart
+    <br/>Functional Black Box Tests <br/> 
     </a></div></div>
 </div>
 
