@@ -8,7 +8,6 @@ Herhangi bir soru veya öneriniz için lütfen aşağıdaki kişilerden herhangi
 
 * [Isa Goksu](mailto:info@isagoksu.com)
 * [Selim Ober](mailto:selimober@gmail.com)
-* [Serdar Buyuktemiz](mailto:hserdarb@gmail.com)
 * [Mesut Can Gürle](mailto:mesutcang@gmail.com)
 * [Can Yaman](mailto:can@yaman.me)
 
