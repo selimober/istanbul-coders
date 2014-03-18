@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 13 Mart
-    <br/>Functional Black Box Tests <br/> 
+    Sonraki Buluşma : 20 Mart
+    <br/>Clojure Workshop <br/> 
     </a></div></div>
 </div>
 
