@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2014-02-13 19:30:00 EET
+date: 2014-03-20 19:00:00 EET
 speaker: Halit Olalı
 speaker-homepage: http://tr.linkedin.com/in/halito
 speaker-twitter: codemomentum
@@ -10,12 +10,17 @@ venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
 title: Clojure Workshop
 ---
 
-Bu hafta Halit bizlere Clojure Workshop anlatıcak.
+Bu hafta bir Clojure Workshop' yapacagiz.
+
 İçerik:
+
 - Araçlar ve kütüphaneler
-- Örnek bir web projesi 
+- Örnek bir web servisi 
 
-Örnek bir web projesi gerçekleşecektir. Laptop'larin getirilmesi rica olunur.
+Laptop'larin getirilmesi rica olunur. Gereksinimler son derece az:
 
-Gereksinimler: Oracle Jdk  ve  http://leiningen.org/ kurulu olmasi yeterli olacaktir.
-Görüşmek üzereler
+- Oracle Jdk
+- `git clone https://github.com/codemomentum/clojurews`
+- `lein deps` 
+
+Görüşmek üzere.
