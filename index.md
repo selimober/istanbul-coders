@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 20 Mart
-    <br/>Clojure Workshop <br/> 
+    Sonraki Buluşma : 27 Mart
+    <br/> Data Visualization & D3 <br/> 
     </a></div></div>
 </div>
 
