@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 27 Mart
+    Sonraki Buluşma : 3 Nisan
     <br/> iOS Development, Adv. Obj-C &<br/> Data binding with storyboard
     </a></div></div>
 </div>
