@@ -13,8 +13,8 @@ title: iOS Development, Adv. Obj-C and data binding with storyboard
 
 Bu hafta Can bizlere "iOS Development, Adv. Obj-C and data binding with storyboard" konusunda sunum yapıcak. Icerik kisaca soyle:
 
--Obj-C runtime env.
--Storyboard and data binding
--Hybrit (static and dynamic cell at the same time) table view and data visualisation.
+- Obj-C runtime env.
+- Storyboard and data binding
+- Hybrit (static and dynamic cell at the same time) table view and data visualisation.
 
 Görüşmek üzereler.
