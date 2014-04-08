@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 3 Nisan
+    Sonraki Buluşma : 10 Nisan
     <br/> Agile Estimation & <br/> Agile Metrics
     </a></div></div>
 </div>
