@@ -12,14 +12,15 @@ title: Agile Estimation & Agile Metrics
 
 Bu hafta Isa bizlere  Agile Estimation & Agile Metrics hakkinda bir sunum yapacak.
 
-Icerik kısaca soyle:
-- what is the fuzz about agile?
-- what is an estimation?
-- why do we need it?
-- what kind of estimations we do in Agile?
-- how do we do it?
-- what metrics support us next to estimations?
-- agile metrics intro for starters
-- q/a
+Içerik kısaca şöyle:
 
-Gorusmek uzereler...
+- What is the fuzz about agile?
+- What is an estimation?
+- Why do we need it?
+- What kind of estimations we do in Agile?
+- How do we do it?
+- What metrics support us next to estimations?
+- Agile metrics intro for starters
+- Q/a
+
+Görüşmek üzereler...
