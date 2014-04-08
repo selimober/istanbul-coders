@@ -14,7 +14,7 @@ Bu hafta Isa bizlere  Agile Estimation & Agile Metrics hakkinda bir sunum yapaca
 
 Içerik kısaca şöyle:
 
-- What is the fuzz about agile?
+- What is the fuss about agile?
 - What is an estimation?
 - Why do we need it?
 - What kind of estimations we do in Agile?
