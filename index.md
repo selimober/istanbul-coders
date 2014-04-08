@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 3 Nisan
-    <br/> iOS Development, Adv. Obj-C &<br/> Data binding with storyboard
+    <br/> Agile Estimation & <br/> Agile Metrics
     </a></div></div>
 </div>
 
