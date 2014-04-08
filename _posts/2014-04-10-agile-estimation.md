@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2014-04-08 19:00:00 EET
+date: 2014-04-10 19:00:00 EET
 speaker: Isa Goksu
 speaker-homepage: http://www.isagoksu.com/
 speaker-twitter: IsaGoksu
