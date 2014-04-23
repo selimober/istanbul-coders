@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/04/17/apache-zookeeper
+redirect_url: meetings/2014/04/24/apache-cassandara
 ---
 
