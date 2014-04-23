@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 17 Nisan
-    <br/> Apache ZooKeeper <br/> 
+    Sonraki Buluşma : 24 Nisan
+    <br/> Apache Cassandra <br/> 
     </a></div></div>
 </div>
 
