@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/04/24/apache-cassandara
+redirect_url: meetings/2014/05/08/in-memory
 ---
 
