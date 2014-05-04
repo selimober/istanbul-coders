@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 24 Nisan
-    <br/> Apache Cassandra <br/> 
+    Sonraki Buluşma : 8 Mayıs
+    <br/> In-Memory Data Grid'lerde  <br/> Maksimum Performans
     </a></div></div>
 </div>
 
