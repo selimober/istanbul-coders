@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 8 Mayıs
-    <br/> In-Memory Data Grid'lerde  <br/> Maksimum Performans
+    Sonraki Buluşma : 15 Mayıs
+    <br/> Cassandra cluster on  <br/>  Raspberry PI
     </a></div></div>
 </div>
 
