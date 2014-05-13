@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 15 Mayıs
-    <br/> Cassandra cluster on  <br/>  Raspberry PI
+    <br/> Test Automation in  <br/>  Continuous Delivery
     </a></div></div>
 </div>
 
