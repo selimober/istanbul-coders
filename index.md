@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 15 Mayıs
-    <br/> Test Automation in  <br/>  Continuous Delivery
+    Sonraki Buluşma : 22 Mayıs
+    <br/> Google Go ile  <br/>  Sensor Network
     </a></div></div>
 </div>
 
