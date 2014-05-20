@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/05/15/test-automation
+redirect_url: meetings/2014/05/15/google-go
 ---
 
