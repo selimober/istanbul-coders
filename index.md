@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 22 Mayıs
-    <br/> Google Go ile  <br/>  Sensor Network
+    Sonraki Buluşma : 29 Mayıs
+    <br/> What if you could scale SQL?   <br/>  Scalable PostgreSQL with CitusDB
     </a></div></div>
 </div>
 
