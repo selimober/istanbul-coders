@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 29 Mayıs
-    <br/> What if you could scale SQL?   <br/>  Scalable PostgreSQL with CitusDB
+    <br/> What if you could scale SQL?   <br/>
     </a></div></div>
 </div>
 
