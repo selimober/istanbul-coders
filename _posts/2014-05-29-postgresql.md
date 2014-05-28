@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2014-05-29 19:00:00 EET
+date: 2014-05-29 19:30:00 EEST
 speaker: Umur Çubukçu, Metin Döşlü, Utku Azman
 speaker-homepage: 
 speaker-twitter: 
