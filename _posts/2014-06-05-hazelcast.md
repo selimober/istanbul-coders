@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter: 
 speaker-photo: 
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
-title:  
+title: Hazelcast and the future of In Memory Data Grids
 ---
 
 Bu hafta Talip Ozturk, Google Go ile sensor network’u konulu bir sunum yapacak.
