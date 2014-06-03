@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 29 Mayıs
-    <br/> What if you could scale SQL?   <br/>
+    Sonraki Buluşma : 5 Haziran
+    <br/> Hazelcast and the future of   <br/>In Memory Data Grids 
     </a></div></div>
 </div>
 
