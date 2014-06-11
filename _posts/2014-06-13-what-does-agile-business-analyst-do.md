@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2014-06-13 19:30:00 EEST
+date: 2014-06-12 19:30:00 EEST
 speaker: Veysel Aydin
 speaker-homepage: http://www.agileanalist.com/
 speaker-twitter: Aydin_Veys
