@@ -21,14 +21,13 @@ layout: home
   <div class="vert-text">
     <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
-    <a href="https://groups.google.com/forum/#!forum/istanbul-coders" target="_blank" class="btn btn-default btn-lg">Keşfet</a>        
+    <a href="https://groups.google.com/forum/#!forum/istanbul-coders" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
   </div>
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 5 Haziran
-    <br/> Hazelcast and the future of   <br/>In Memory Data Grids 
-    </a></div></div>
+    Sonraki Buluşma : 13 Haziran
+    <br/> What Does Agile Analyst Do</a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->

@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/06/05/hazelcast
+redirect_url: meetings/2014/06/13/what-does-agile-business-analyst-do
 ---
 
