@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 13 Haziran
+    Sonraki Buluşma : 12 Haziran
     <br/> What Does Agile Analyst Do</a></div></div>
 </div>
 
