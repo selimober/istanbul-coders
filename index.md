@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 12 Haziran
-    <br/> What Does Agile Analyst Do</a></div></div>
+    Sonraki Buluşma : 19 Haziran
+    <br/> Programmers Involvement in UX.</a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
