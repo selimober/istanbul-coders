@@ -13,5 +13,6 @@ title: Programmers Involvement in UX.
 Bu hafta bize ThoughtWorks'den Ben Kappler ve David Simon  User experience sürecinden ve yazılım geliştiricilerin
 UX sürecindeki rollerinden bahsedecekler. Lean UX, metrikler ve A/B testi konularına soru cevap kısmında değilinecektir. 
 
-David Peter Simon is an ethnographer and blogger based in London. His primary interest lies at the intersection of design and research, particularly to understand how we build technology that makes a positive impact on the world. David works at ThoughtWorks, an agile design and software engineering firm, where he specialises in design research, user experience strategy, and product management.
+ThoughtWorks Experience Designers, David and Ben, would like to facilitate a shared and open conversation with Istanbul Coders about how UX design fits in with Agile development methodologies, and specifically how designers and developers can better interact, engage and work together.
+
 Görüşmek üzereler...
