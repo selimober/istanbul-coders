@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 19 Haziran
-    <br/> Programmers Involvement in UX.</a></div></div>
+    Sonraki Buluşma : 26 Haziran
+    <br/> Ember.JS Workshop</a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
@@ -166,4 +166,3 @@ layout: home
   </div>
 </div>
 <!-- /Footer -->
-
