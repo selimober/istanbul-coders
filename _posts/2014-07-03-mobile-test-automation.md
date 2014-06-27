@@ -15,7 +15,8 @@ Bu hafta bizlere CicekSepeti'nden Selin Güngör ve VNGRS' dan Erol Selitektay  
 "We will talk about most critical points in mobile testing. Also, we would like to give a brief information about mobile automation. So we can discuss where and how you can start to create your own automation framework."
 
 Not: 
-- Ramazana sebebiyle  sunumlar saat 7 de başlayıp saat 8 de bitecek.
+
+- Ramazana sebebiyle  sunumlar saat 19:00 de başlayıp saat 20:00 de bitecek.
 
 
 Görüşmek üzereler...
