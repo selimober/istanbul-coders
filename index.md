@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 26 Haziran
-    <br/> Ember.JS Workshop</a></div></div>
+    Sonraki Buluşma : 3 Temmuz
+    <br/> Mobile Test Automation </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
