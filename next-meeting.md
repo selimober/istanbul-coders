@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/06/26/emberjs-workshop
+redirect_url: meetings/2014/07/03/mobile-test-automation
 ---
