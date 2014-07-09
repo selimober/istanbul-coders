@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/07/03/mobile-test-automation
+redirect_url: meetings/2014/07/10/React-js
 ---
