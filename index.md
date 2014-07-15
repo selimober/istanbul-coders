@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 10 Temmuz
-    <br/> React.js </a></div></div>
+    Sonraki Buluşma : 17 Temmuz
+    <br/> A introduction on functional <br/> programming with F# </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
