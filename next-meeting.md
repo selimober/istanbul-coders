@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/07/24/r
+redirect_url: meetings/2014/08/07/test-automation
 ---
