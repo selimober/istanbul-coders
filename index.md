@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 7 Agustos
-    <br/> How to build a  <br/> Test Automation Framework?</a></div></div>
+    <br/> İPTAL EDİLDİ <br/> </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
