@@ -2,7 +2,7 @@
 layout: meeting
 category: meetings
 date: 2014-08-28 19:30:00 EEST
-speaker:Cihad Horuzoğlu
+speaker: Cihad Horuzoğlu
 speaker-homepage: 
 speaker-twitter: 
 speaker-photo: 
