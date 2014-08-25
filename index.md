@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 14 Agustos
-    <br/> How to build a  <br/> Test Automation Framework? </a></div></div>
+    Sonraki Buluşma : 28 Agustos
+    <br/> Hybrid Apps with Angular & <br/>  Ionic Framework </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
