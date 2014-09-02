@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/08/28/hybrid-apps
+redirect_url: meetings/2014/09/04/crypto
 ---
