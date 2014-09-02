@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 28 Agustos
-    <br/> Hybrid Apps with Angular & <br/>  Ionic Framework </a></div></div>
+    Sonraki Buluşma : 4 Eylul
+    <br/> Crypto/PKI/ <br/>  Digital Signatures </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
