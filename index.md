@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 4 Eylul
-    <br/> Crypto/PKI/ <br/>  Digital Signatures </a></div></div>
+    Sonraki Buluşma : 11 Eylul
+    <br/> Grunt, Stylus ve Jade ile  <br/>  Hybrid application development </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
