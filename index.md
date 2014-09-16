@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 11 Eylul
-    <br/> Grunt, Stylus ve Jade ile  <br/>  Hybrid application development </a></div></div>
+    Sonraki Buluşma : 18 Eylul
+    <br/> Elasticsearch ELK stack with MQ  <br/>   </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
