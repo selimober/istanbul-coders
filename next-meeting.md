@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/09/18/elasticsearch
+redirect_url: meetings/2014/09/25/secure-web-applications
 ---
