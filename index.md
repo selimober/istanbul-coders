@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 25 Eylul
-    <br/> Secure Web Applications  <br/>   </a></div></div>
+    Sonraki Buluşma : 9 Ekim
+    <br/> Bir DDD Pratiği; CQRS  <br/>    </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
