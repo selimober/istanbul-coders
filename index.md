@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 16 Ekim
-    <br/> Token Based Authentication System   <br/> With Angular&Nodejs CQRS   </a></div></div>
+    <br/> Token Based Authentication System   <br/> With Angular&Nodejs  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
