@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 16 Ekim
-    <br/> Token Based Authentication System   <br/> With Angular&Nodejs  </a></div></div>
+    Sonraki Buluşma : 23 Ekim
+    <br/> Hybrid Apps with Angular <br/> & Ionic Framework  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
