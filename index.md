@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 23 Ekim
-    <br/>4th Generation Software and  <br/> Domain-Driven Design (DDD)  </a></div></div>
+    Sonraki Buluşma : 30 Ekim
+    <br/>Event Storming <br/>   </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
