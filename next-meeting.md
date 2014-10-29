@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/10/23/ddd
+redirect_url: meetings/2014/10/30/event-storming
 ---
