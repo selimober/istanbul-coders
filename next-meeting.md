@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/10/30/event-storming
+redirect_url: meetings/2014/11/06/devops
 ---
