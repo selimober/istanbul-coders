@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 30 Ekim
-    <br/>Event Storming <br/>   </a></div></div>
+    Sonraki Buluşma : 6 Kasım
+    <br/>DevOps and Continuous Delivery <br/>   </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
