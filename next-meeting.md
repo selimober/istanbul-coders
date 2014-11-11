@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/11/06/devops
+redirect_url: meetings/2014/11/13/azure-versus-amazon
 ---
