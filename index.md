@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 13 Kasım
-    <br/>Azure versus Amazon <br/>   </a></div></div>
+    Sonraki Buluşma : 20 Kasım
+    <br/>Teaching Programming Skills  <br/>to Youngsters   </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
