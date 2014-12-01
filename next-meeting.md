@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/11/27/meteor
+redirect_url: meetings/2014/12/04/feature-toggling-and-beyond
 ---
