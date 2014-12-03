@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 4 Aralık
-    <br/>Feature Toggling and Beyond <br/>   </a></div></div>
+    <br/>Measuring Business Value in  <br/> Agile Projects  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
