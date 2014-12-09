@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2014/12/04/feature
+redirect_url: meetings/2014/12/11/emberjs
 ---
