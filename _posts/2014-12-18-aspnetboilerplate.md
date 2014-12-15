@@ -7,10 +7,11 @@ speaker-homepage: http://halilibrahimkalkan.com
 speaker-twitter: hibrahimkalkan
 speaker-photo: https://pbs.twimg.com/profile_images/510483644587053057/8mfWzjsR.jpeg
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
-title: ASP.NET Boilerplate
+title: ASP.NET Boilerplate ile katmanlı yazılım geliştirme
 ---
 Bu hafta Halil İbrahim Kalkan bizlere ASP.NET Boilerplate hakkinda bir sunum yapacak.
 
+Halil İbrahim Kalkan, Sestek'de yazılım mimarı ve takım lideri olarak çalışıyorum. İş dışında open source projeler geliştiriyorum. Özellikle framework geliştirme, multi-thread ve dağıtık uygulama geliştirme konularına ilgiliyim. Domain Driven Design ve Design Patterns konularında bilgi ve deneyimim var. Çalıştığım alanlardaki Best Practice'leri öğrenmeyi, kullanmayı ve öğretmeyi seviyorum. Hem server hem de client tarafıyla ilgileniyorum. ASP.NET Boilerplate dışında popüler olarak jTable (http://jtable.org) projesini de geliştirdim ve sürdürüyorum.
 
 Agenda:
 
