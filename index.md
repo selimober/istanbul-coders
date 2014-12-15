@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 11 Aralık
-    <br/>Building Paraşüt with Ember.js  <br/>  </a></div></div>
+    Sonraki Buluşma : 18 Aralık
+    <br/>ASP.NET Boilerplate  <br/>  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
