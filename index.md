@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 18 Aralık
-    <br/>ASP.NET Boilerplate  <br/>  </a></div></div>
+    <br/>ASP.NET Boilerplate ile   <br/>katmanlı yazılım geliştirme  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
