@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 8 Ocak
-    <br/>Feature Toggling and Beyond<br/>  </a></div></div>
+    Sonraki Buluşma : 15 Ocak
+    <br/>Cyber Security Workshop<br/>  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
