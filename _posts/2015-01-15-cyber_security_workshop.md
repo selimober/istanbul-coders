@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2014-01-15 19:00:00 EET
+date: 2015-01-15 19:00:00 EET
 speaker: 
 speaker-homepage: 
 speaker-twitter: 
