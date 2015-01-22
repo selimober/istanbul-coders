@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2015-01-15 19:00:00 EET
+date: 2015-01-22 19:00:00 EET
 speaker: Mehmet Baykal
 speaker-homepage: 
 speaker-twitter: 
