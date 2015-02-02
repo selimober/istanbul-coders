@@ -18,6 +18,7 @@ Bu buluşmamızda çokça merak edilen;
 - Internet of Things 
 
 Teknolojilerini yazılım ve donanım yönleriyle ele alacağız. Valensas Teknoloji kurucularından Akın İdil, sunumunda bu kavramları ve uygulama alanlarını anlatacak. Ayrıca bu alanda yapılan proje örneklerini de paylaşacak. Sunum ağırlıklı olarak BLE’nin Mobil Uygulamalar ve desktop alanındaki kullanımı hakkında olacak. Bluetooth Low Energy, iBeacon ve bunlarla ilişkili diğer teknolojiler hakkında bilgi sahibi olmak, örnek çalışmaları görmek, varsa sorularınızı sormak ve bu alana ilgi duyan diğer sektör çalışanlarıyla tanışmak üzere sizleri de aramızda görmek istiyoruz. 
+
 AJANDA 
 
 Networking: 
