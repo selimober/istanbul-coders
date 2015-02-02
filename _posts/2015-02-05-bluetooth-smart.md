@@ -2,7 +2,7 @@
 layout: meeting
 category: meetings
 date: 2015-02-05 19:00:00 EET
-speaker: Can Yaman
+speaker: Akın İdil,Can Yaman
 speaker-homepage: 
 speaker-twitter: 
 speaker-photo: 
@@ -26,9 +26,9 @@ Sektörde çalışan diğer profesyonellerle tanışın
 
 Sunum: 
 
-BLE ve iBeacon TeknolojisiAkın İdil, Kurucu OrtakValensas Teknoloji, 
- Veacon (iBeacon Platform) 
-BLE Proje ÖrnekleriCan Yaman, Senior DeveloperValensas Teknoloji 
+- BLE ve iBeacon Teknolojisi Akın İdil, Kurucu Ortak Valensas Teknoloji, Veacon (iBeacon Platform)
+
+- BLE Proje Örnekleri Can Yaman, Senior Developer Valensas Teknoloji 
 
 Q&A: 
 
