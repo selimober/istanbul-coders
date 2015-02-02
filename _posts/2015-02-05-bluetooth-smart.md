@@ -37,7 +37,11 @@ Varsa merak ettiklerinizi sorabileceğiniz kısa bir soru & cevap seansımız da
 Kaynaklar: 
 
 bluetooth.com 
+
 developer.apple.com/ibeacon 
+
 valensas.com 
+
 veacon.com 
+
 cheers
