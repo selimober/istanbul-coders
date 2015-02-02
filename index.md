@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 29 Ocak
-    <br/>Neo4j<br/>  </a></div></div>
+    Sonraki Buluşma : 5 Şubat
+    <br/>Bluetooth Smart & iBeacon<br/>  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
