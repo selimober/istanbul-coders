@@ -16,14 +16,23 @@ Roy Simkes, skyatlas firmasinda, CTO pozisyonunda gorev aliyor. Bulut teknolojil
 Konu:
 
 1. Sanallastirma Teknolojileri
-1.1. Container Tabanlilar (lxc, docker)
+
+1.1 Container Tabanlilar (lxc, docker)
+
 1.2. Hypervisor Tabanlilar (xen, kvm)
+
 1.3. Libvirt her seyin cozumu mu?
+
 1.4. Sanallasitrma teknolojilerinin karsilastirmasi, iyi kotu yonleri
+
 2. Openstack Nedir, Neleri Cozer?
+
 2.1. Compute, Neutron, Glance, Horizon, Swift, Ceilometer,...
+
 2.2. Openstack icin dunyada baska bir alternattif var mi?
+
 3. Kendiniz bir Openstack muadili yazmaya karar verirseniz neler ile karsilasirsiniz, Openstack ile yarisabilir misiniz, gerek var mi?
+
 (4. Kendi Bulut hizmetinizi sunsaniz ne gibi problemleriniz olabilir?)
 
 
