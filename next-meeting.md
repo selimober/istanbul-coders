@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2015/02/12/get-smart
+redirect_url: meetings/2015/02/19/bulut-ve-sanallastirma
 ---
