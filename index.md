@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 19 Şubat
-    <br/>Bulut ve Sanallaştırma  <br/>Teknolojileri  </a></div></div>
+    <br/>[ İPTAL ]Bulut ve   <br/> Sanallaştırma Teknolojileri  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
