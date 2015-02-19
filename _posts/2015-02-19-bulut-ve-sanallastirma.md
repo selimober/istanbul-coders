@@ -7,8 +7,9 @@ speaker-homepage:
 speaker-twitter: roysimkes
 speaker-photo: https://pbs.twimg.com/profile_images/3770763512/0d419195956f0f37e499b06aa05793f6.jpeg
 venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
-title: Bulut ve Sanallastirma Teknolojileri
+title: [ İPTAL ] Bulut ve Sanallastirma Teknolojileri
 ---
+HAVA ŞARTLARI NEDENİYLE İPTAL EDİLMİŞTİR.
 Bu hafta Roy bizlere Bulut ve Sanallastirma Teknolojileri başlıklı bir sunum yapıcak.
 
 Roy Simkes, skyatlas firmasinda, CTO pozisyonunda gorev aliyor. Bulut teknolojileri, sanallastirma cozumleri ve yazilim uzerine calisiyor..
