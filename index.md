@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 19 Şubat
-    <br/>[ İPTAL ]Bulut ve   <br/> Sanallaştırma Teknolojileri  </a></div></div>
+    Sonraki Buluşma : 26 Şubat
+    <br/>Scale out SQL: Automatic   <br/> sharding for PostgreSQL  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
