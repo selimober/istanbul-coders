@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2015/02/26/scale-out-sql
+redirect_url: meetings/2015/03/05/bulut-ve-sanallistirma
 ---
