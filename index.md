@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 5 Mart
-    <br/>Bulut ve Sanallaştırma   <br/> Teknolojileri  </a></div></div>
+    Sonraki Buluşma : 26 Mart
+    <br/>Örnek Problemler Üzerinden R ile   <br/>  Veri Analizi Uygulaması  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
