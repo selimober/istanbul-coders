@@ -29,3 +29,5 @@ Why you should learn R first for data science
 http://www.sharpsightlabs.com/learn-r-data-science/
 
 Gorusmek uzere.
+
+Not: Toplanti 19:00, Sunum 19:30'da baslayacaktir
