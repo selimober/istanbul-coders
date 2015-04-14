@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 2 Nisan
-    <br/> Introduction to Functional Programming w/ <br/> Haskell, Clojure and Scala  </a></div></div>
+    Sonraki Buluşma : 16 Nisan
+    <br/> Socket.io  <br/>  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
