@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 16 Nisan
-    <br/> Socket.io  <br/>  </a></div></div>
+    Sonraki Buluşma : 30 Nisan
+    <br/> Single Page Application  <br/>  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
