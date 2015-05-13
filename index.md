@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 7 Mayis
-    <br/> Typescript  <br/>  </a></div></div>
+    Sonraki Buluşma : 14 Mayis
+    <br/> Azure, Angular, SignalR  <br/>  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
