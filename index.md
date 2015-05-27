@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 21 Mayis
-    <br/> Android'de Sürekli Dağıtım  <br/>  </a></div></div>
+    Sonraki Buluşma : 28 Mayis
+    <br/> Roadmap to DevOps Mindset <br/>  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
