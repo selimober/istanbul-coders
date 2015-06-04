@@ -14,6 +14,7 @@ Bu hafta Rommel Tinoco bizlere AWS ortaminda Big Data uygulamalari hakkinda bir 
 
 Program:
 19:00 - Bulusma & Networking
+
 19:30 - Sunum baslangici
 
 Gorusmek uzere.
