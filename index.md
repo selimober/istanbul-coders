@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 4 Haziran
-    <br/> Big Data on AWS <br/>  </a></div></div>
+    Sonraki Buluşma : 11 Haziran
+    <br/> Advanced Javascript <br/>  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
