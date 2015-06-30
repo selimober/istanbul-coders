@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 25 Haziran
-    <br/> EggPlant <br/>  </a></div></div>
+    Sonraki Buluşma : 02 Temmuz
+    <br/> Angular JS and  <br/>the MVVM pattern  </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
