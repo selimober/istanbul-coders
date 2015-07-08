@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2015/07/02/angular
+redirect_url: meetings/2015/07/09/dogal-dil-isleme
 ---
