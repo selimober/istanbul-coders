@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2015/07/23/apache
+redirect_url: meetings/2015/07/30/testdriven
 ---
