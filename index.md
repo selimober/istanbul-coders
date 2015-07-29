@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 23 Temmuz
-    <br/> Apache Mesos <br/> </a></div></div>
+    Sonraki Buluşma : 30 Temmuz
+    <br/> Test Driven Infrastructure <br/> as Code </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
