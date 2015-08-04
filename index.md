@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 30 Temmuz
-    <br/> Test Driven Infrastructure <br/> as Code </a></div></div>
+    Sonraki Buluşma : 6 Agustos
+    <br/> Vieux Framework <br/> </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
