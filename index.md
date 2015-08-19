@@ -27,7 +27,7 @@ layout: home
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
     Sonraki Buluşma : 20 Agustos
-    <br/> Agile Donusum. Yapmak ve Olmak <br/> </a></div></div>
+    <br/> Cevik Donusum <br/> </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
