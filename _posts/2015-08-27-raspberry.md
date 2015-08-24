@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: 2015-08-20 19:30:00 EEST
+date: 2015-08-27 19:30:00 EEST
 speaker: Ramazan Subasi
 speaker-homepage:
 speaker-twitter: subasiramazan
