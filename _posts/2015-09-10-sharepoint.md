@@ -24,3 +24,6 @@ Kullananlar varsa  aramızda, neyi nasıl kullandığınız ve yaşadıklarını
 Sadri Gülnaroğlu http://projectcloudlabs.com
 Tasarımcı ortağı ile beraber kurduğu şirkette kurumsal segmentte yer alan şirketlerin SharePoint ihtiyaçlarının analizi,geliştirmesi ve bakımı konularında çalışmaktadır.
 Müzik,boks ve dans üçlüsüne ara ara takılır, bunun yanında indor.in isimli bir etkinlik uygulaması üzerinde çalışmaktadır. 
+
+
+http://www.meetup.com/Istanbul-Hackers/events/224791663/
