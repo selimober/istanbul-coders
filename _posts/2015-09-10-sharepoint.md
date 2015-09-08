@@ -26,4 +26,4 @@ Tasarımcı ortağı ile beraber kurduğu şirkette kurumsal segmentte yer alan 
 Müzik,boks ve dans üçlüsüne ara ara takılır, bunun yanında indor.in isimli bir etkinlik uygulaması üzerinde çalışmaktadır. 
 
 
-http://www.meetup.com/Istanbul-Hackers/events/224791663/
+Kayit icin: [http://www.meetup.com/Istanbul-Hackers/events/224791663/](http://www.meetup.com/Istanbul-Hackers/events/224791663/)
