@@ -20,7 +20,7 @@ layout: default
 </div>
 <br/>
 <div class="row">
-	önemli destekte bulumuşlardır.
+	önemli desteklerde bulunmuşlardır.
 </div>
 <br/>
 <div class="row">
