@@ -7,7 +7,12 @@ layout: default
 
 <h2>Etkinliklerimize Destek Olan Firmalara Teşekkür Ederiz</h2>
 
-<p><strong><a href="http://www.ibsyazilim.com" target="_blank">IBS Yazılım</a></strong>, <strong><a href="http://formalistech.com" target="_blank">Formalis</a></strong> ve <strong><a href="http://valensas.com" target="_blank">Valensas</a></strong>, ITU teknokent toplantı salonlarında düzenlediğimiz etkinliklerin salon rezervasyonunu yaparak bize önemli bir destekte bulunumuştur.</p>
+<p>
+	<strong><a href="http://www.thoughtworks.com" target="_blank">ThoughtWorks</a></strong>, etkinliklerin kayıda alınması ve içerik sağlayıcı olarak, 
+</p>
+<p>
+	</strong> ve <strong><a href="http://valensas.com" target="_blank">Valensas</a></strong>, ITU teknokent toplantı salonlarında düzenlediğimiz etkinliklerin salon rezervasyonunu yaparak bize önemli bir destekte bulumuşlardır.
+</p>
 
  <p>
  Siz de faliyetlerimizin yayılmasına katkıda bulunmak isterseniz, lütfen bizimle <a href="http://istanbulcoders.org/contact">iletişime geçin</a>.
