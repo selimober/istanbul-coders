@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 10 Eylul
-    <br/> Sharepoint <br/> </a></div></div>
+    Sonraki Buluşma : 17 Eylul
+    <br/> Apache Kafka <br/> </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
