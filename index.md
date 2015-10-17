@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 15 Ekim
-    <br/> Bluemix <br/> </a></div></div>
+    Sonraki Buluşma : 22 Ekim
+    <br/> Material Design & Android Support <br/> </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
