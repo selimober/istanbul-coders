@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2015/10/22/material
+redirect_url: meetings/2015/11/03/finding-your-mentor
 ---

@@ -1,0 +1,50 @@
+---
+layout: meeting
+category: meetings
+date: 2015-11-03 20:30:00 EST
+speaker: Ufuk Batum
+speaker-homepage: 
+speaker-twitter: ufukbatum
+speaker-photo: https://pbs.twimg.com/profile_images/2901541809/d6035035a8f3f522c33f2acb6bd65199_400x400.jpeg
+venue: ITÜ Teknokent ARI-3 Toplantı Salonu 4
+title: Finding Your Mentor / Girişimin Mentoru
+---
+
+Merhaba arkadaslar,
+
+Aktif uye sayisi 1500'u asmis, çogu bilisim uzmani, calisan, yatirimci; bir kismi girisimcilik seruvenine baslamis, bir kismi da bu seruven icin hazirliklar yapan son derece egitimli ve donanimli bu grupta girisimcilik ile ilgili cok da fazla konusmadigimizi dusunduk.
+
+Ufuk Hocamiz, Turkiye'de mentorluk sisteminin yayginlasmasi icin cok buyuk cabalar sarfetmektedir. Bu kapsamda Turkiye'nin en buyuk sirketlerine profesyonel mentorluk yaparken, girisimcilere de Tubitak kanaliyla, ODTU Teknokent kapsamindaki girisimci destek programlari ile ve startupbootcamp organizasyonu cercevesinde mentorluk yapmaktadir. Ayni zamanda iyi bir matematikci olan Ufuk Hoca, zamaninda ulkemizi matematik olimpiyatlarinda temsil etmistir.
+
+Konusma/soylesinin konusu, girisimcilik seruvenindeki belki de acik ara en onemli ihtiyac olan mentorluk destegi ve mentor - girisimci arasindaki iliskiyi dogru tanimlamak uzerine. Cok keyifli ve son derece motive edici bir konusma olacagini daha once Ufuk Hoca'nin katildigim egitimlerinden biliyorum.
+
+Bu ozel etkinlik 3 Kasim Sali saat 19:30'da Ari3 buyuk toplanti odasinda olacaktir.
+
+5 Kasim Persembe etkinligi'nde bir degisiklik yoktur.
+
+---
+
+Ufuk Batum hakkında;
+
+Ortaokul ve liseyi Robert Kolej'de, üniversiteyi Boğaziçi Üniversitesi Makine Mühendisliği'nde bitirdi. Daha sonra Clemson Üniversitesi'nden (ABD) kazandığı bursla işletme yüksek lisansı tamamladi. ABD, Fransa ve Türkiye'de farklı sektör ve  kuruluşlarda üst düzey yöneticilik ve genel müdürlük yapti. Boğaziçi Üniversitesi ve diger birkac universitede dersler verdi/veriyor. Çeşitli gazete ve dergilerde köşe yazıları yazdı. Bugüne kadar yüzlerce yazısı, çalışması ve raporu yayımlandı. 
+
+Hali hazırda, Tübitak girişimci destek programlarında hem hakem/juri olarak calisiyor hem de kuruculuğunu yaptığı mentörlük sisteminde yeni mentörler yetiştirerek ve de girişimcilere mentörlük yaparak ekosistemi iyilestirmeye calisiyor. Teknoloji Transfer Ofislerinin de desteği ile Tubitak girişimci destek programlarında girişimcilere eğitimler vererek vizyon aşılıyor. 
+
+Geçtiğimiz aya kadar ODTU Teknokent'in idareciliğini üstleniyordu. Son iki aydır da kurmuş olduğu Ventures&Mentors League ile çeşitli Startup kamplarında jüri üyeliği yapıp eğitimler veriyor. Bu kapsamda mentorluk sisteminin yayginlasmasina katkida bulunuyor.
+
+Zaman zaman ntv/cnbc-e ve diger kanallarda konuk oldugu programlarda girisimcilik, innovasyon ve Turkiye'nin icinden cikmaya calistigi "orta gelir tuzagi" ile ilgili tartismalara katiliyor.
+
+Çeşitli konuşma ve söyleşileri;
+
+http://tedxtalks.ted.com/video/Creative-collision-yarat%C4%B1c%C4%B1-ca
+
+http://www.dailymotion.com/video/x2qgswl
+
+https://www.youtube.com/?gl=TR&hl=tr#/results?search_query=Ufuk+batum&sp=CAASAggA
+
+Kitapları;
+
+http://www.kitapyurdu.com/yazar/ufuk-batum/27912.html
+
+@UfukBatum
+http://www.startupbootcamp.org/mentors/ufuk-batum.html
