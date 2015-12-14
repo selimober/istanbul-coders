@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2015/11/05/mobile
+redirect_url: meetings/2015/12/17/microsoft
 ---
