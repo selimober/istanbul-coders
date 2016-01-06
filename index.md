@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 24 Aralik
-    <br/> Appveyor ile .Net Cloud üzerinde <br/>Continuous Delivery kurulumu </a></div></div>
+    Sonraki Buluşma : 7 Ocak
+    <br/> Swift Programlama Diline  <br/>Giriş </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
