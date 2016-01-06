@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2015/12/24/appveyor
+redirect_url: meetings/2015/01/07/swift
 ---
