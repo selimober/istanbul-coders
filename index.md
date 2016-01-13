@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 7 Ocak
-    <br/> Swift Programlama Diline  <br/>Giriş </a></div></div>
+    Sonraki Buluşma : 14 Ocak
+    <br/> Dünyanın en iyi yazılım şirketlerinde <br/> kariyer yapmak </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
