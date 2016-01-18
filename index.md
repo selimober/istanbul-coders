@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 14 Ocak
-    <br/> Dünyanın en iyi yazılım şirketlerinde <br/> kariyer yapmak </a></div></div>
+    Sonraki Buluşma : 21 Ocak
+    <br/> Javascript Programlama Diline <br/> giris </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
