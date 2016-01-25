@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 21 Ocak
-    <br/> Javascript Programlama Diline <br/> giris </a></div></div>
+    Sonraki Buluşma : 28 Ocak
+    <br/> Milyon Fikir / İş kurarken evdeki hesap <b/> şirketteki hesap </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
