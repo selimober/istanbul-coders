@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/02/04/go
+redirect_url: meetings/2016/02/11/kubernetes
 ---

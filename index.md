@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 04 Subat
-    <br/> Introduction to Google's <b/> Golang </a></div></div>
+    Sonraki Buluşma : 11 Subat
+    <br/> Kubernetes on Azure <b/> Not just Windows </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
