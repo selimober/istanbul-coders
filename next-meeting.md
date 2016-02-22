@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/02/18/penetration
+redirect_url: meetings/2016/02/25/golang2
 ---
