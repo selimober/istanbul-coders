@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/02/25/golang2
+redirect_url: meetings/2016/03/03/angular2
 ---

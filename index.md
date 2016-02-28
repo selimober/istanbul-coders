@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 25 Subat
-    <br/> Golang... <b/> Why Golang? </a></div></div>
+    Sonraki Buluşma : 03 Mart 
+    <br/> Introduction to <b/> Angular 2.0 </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
