@@ -13,7 +13,7 @@ Herhangi bir soru veya öneriniz için lütfen aşağıdaki kişilerden herhangi
 * [Cengiz Can](mailto:cengizc@gmail.com)
  
  
-### Grubu Kuranlar / ex-organizatorler
+### Grup Kuruculari / ex-organizatorler
 
 * [Isa Goksu](mailto:info@isagoksu.com)
 * [Selim Ober](mailto:selimober@gmail.com)
