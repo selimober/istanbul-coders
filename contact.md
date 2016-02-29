@@ -6,6 +6,15 @@ layout: default
 
 Herhangi bir soru veya öneriniz için lütfen aşağıdaki kişilerden herhangi biri ile irtibata geçiniz:
 
+
+### Aktif organizatorler
+
+* [Abdulkadir Yaman](mailto:abdulkadiryaman@gmail.com)
+* [Cengiz Can](mailto:cengizc@gmail.com)
+ 
+ 
+### Grubu Kuranlar / ex-organizatorler
+
 * [Isa Goksu](mailto:info@isagoksu.com)
 * [Selim Ober](mailto:selimober@gmail.com)
 * [Mesut Can Gürle](mailto:mesutcang@gmail.com)
