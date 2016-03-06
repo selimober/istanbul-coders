@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 03 Mart 
-    <br/> Introduction to <b/> Angular 2.0 </a></div></div>
+    Sonraki Buluşma : 10 Mart 
+    <br/> The complete workflow at <b/> Github </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
@@ -160,7 +160,7 @@ layout: home
           <li><a href="https://github.com/istanbul-coders"><i class="icon-github icon-2x"></i></a></li>
         </ul>
         <hr>
-        <p>Copyright &copy; Istanbul Coders 2014</p>
+        <p>Copyright &copy; Istanbul Coders 2016</p>
       </div>
     </div>
   </div>
