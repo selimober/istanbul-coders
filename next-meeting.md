@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/03/10/github
+redirect_url: meetings/2016/03/17/lego
 ---

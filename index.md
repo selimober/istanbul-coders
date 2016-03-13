@@ -26,8 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green"><div class="ribbon-green">
     <a href="next-meeting">
-    Sonraki Buluşma : 10 Mart 
-    <br/> The complete workflow at <b/> Github </a></div></div>
+    Sonraki Buluşma : 17 Mart 
+    <br/> Lego NXT ile Tuvalet Robotu ve <b/> Startup Pitch sunumlari </a></div></div>
 </div>
 
 <!-- /Full Page Image Header Area -->
