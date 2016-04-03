@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter:
 speaker-photo:
 venue: Bahcesehir Universitesi -D504 Nolu Sinif, Besiktas kampusu
-title: Crossover Java, .NET ve C++ ile uzaktan, tam zamanli calisma firsatlari
+title: Crossover ile uzaktan, tam zamanli calisma firsatlari
 ---
 Merhaba arkadaslar,
 
@@ -15,7 +15,7 @@ Bu hafta Crossover Turkiye Genel Muduru Sinan Ata bize Crossover platformunun de
 
 **Konu:**
 
-Crossover Java, .NET ve C++ ile uzaktan, tam zamanli calisma firsatlari
+Crossover ile uzaktan, tam zamanli calisma firsatlari
 
 **Konusmaci:**
 
