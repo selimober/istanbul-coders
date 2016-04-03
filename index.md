@@ -24,10 +24,11 @@ layout: home
     <a href="https://groups.google.com/forum/#!forum/istanbul-coders" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
   </div>
 
-  <div class="ribbon-wrapper-green"><div class="ribbon-green">
-    <a href="next-meeting">
-    Sonraki Buluşma : 31 Mart 
-    <br/> Android Uygulama Bilesenleri <b/> Icerik Saglayicilar </a></div></div>
+  <div class="ribbon-wrapper-green">
+  	<div class="ribbon-green">
+      <a href="next-meeting">Sonraki Buluşma : 7 Nisan <br/> Crossover Java, .NET ve C++ ile uzaktan, tam zamanli calisma firsatlari</a>
+    </div>
+  </div>
 </div>
 
 <!-- /Full Page Image Header Area -->
