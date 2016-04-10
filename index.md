@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 7 Nisan <br/> Crossover ile uzaktan, tam zamanli calisma firsatlari</a>
+      <a href="next-meeting">Sonraki Buluşma : 14 Nisan <br/> Açık Oturum - Open Session</a>
     </div>
   </div>
 </div>
