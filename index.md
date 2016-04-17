@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 14 Nisan <br/> Açık Oturum - Open Session</a>
+      <a href="next-meeting">Sonraki Buluşma : 21 Nisan <br/> Graph Veritabanlari</a>
     </div>
   </div>
 </div>
