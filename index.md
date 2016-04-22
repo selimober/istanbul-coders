@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 21 Nisan <br/> Graph Veritabanlari</a>
+      <a href=anext-meeting">Sonraki Buluşma : 28 Nisan <br/> The era of the digital economy: Bitcoin </a>
     </div>
   </div>
 </div>
