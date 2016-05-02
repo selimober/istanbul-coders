@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 28 Nisan <br/> The era of the digital economy: Bitcoin </a>
+      <a href="next-meeting">Sonraki Buluşma : 5 Mayıs <br/> Ölçeklenebilir Gerçek-Zamanlı Bildirim Sistemleri </a>
     </div>
   </div>
 </div>

@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/04/28/bitcoin
+redirect_url: meetings/2016/05/05/scalable-realtime-notifications
 ---
