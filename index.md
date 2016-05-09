@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 5 Mayıs <br/> Ölçeklenebilir Gerçek-Zamanlı Bildirim Sistemleri </a>
+      <a href="next-meeting">Sonraki Buluşma : 12 Mayıs <br/> Troubleshoot .Net - Startup to Enterprise </a>
     </div>
   </div>
 </div>

@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/05/05/scalable-realtime-notifications
+redirect_url: meetings/2016/05/12/net2
 ---
