@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 12 Mayıs <br/> Troubleshoot .Net - Startup to Enterprise </a>
+      <a href="next-meeting">Sonraki Buluşma : 26 Mayıs <br/> Raspberry Pi</a>
     </div>
   </div>
 </div>
