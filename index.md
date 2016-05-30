@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 26 Mayıs <br/> Raspberry Pi</a>
+      <a href="next-meeting">Sonraki Buluşma : 2 Haziran <br/> Kadinlarin IT'deki Kariyeri</a>
     </div>
   </div>
 </div>
