@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 2 Haziran <br/> Kadinlarin IT'deki Kariyeri</a>
+      <a href="next-meeting">Sonraki Buluşma : 9 Haziran <br/> Production Deployment Strategies </a>
     </div>
   </div>
 </div>
