@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 9 Haziran <br/> Production Deployment Strategies </a>
+      <a href="next-meeting">Sonraki Buluşma : 16 Haziran <br/> Acik Oturum </a>
     </div>
   </div>
 </div>
