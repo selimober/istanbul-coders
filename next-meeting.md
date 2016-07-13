@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/06/30/rust-diline-giris
+redirect_url: meetings/2016/07/14/opensession
 ---

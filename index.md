@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 30 Haziran <br/> Rust Programlama Diline Giris </a>
+      <a href="next-meeting">Sonraki Buluşma : 14 Temmuz <br/> Acik Oturum </a>
     </div>
   </div>
 </div>
