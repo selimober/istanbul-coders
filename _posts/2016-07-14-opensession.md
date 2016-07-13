@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter:
 speaker-photo:
 venue: ThoughtWorks Istanbul
-title: Acik Oturum
+title: Açık Oturum
 ---
 Merhaba arkadaslar,
 
