@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 14 Temmuz <br/> Acik Oturum </a>
+      <a href="next-meeting">Sonraki Buluşma : 21 Temmuz <br/> Meteor ve React ile Neden Yapamadim? </a>
     </div>
   </div>
 </div>
