@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 21 Temmuz <br/> Meteor ve React ile Neden Yapamadim? </a>
+      <a href="next-meeting">Sonraki Buluşma : 28 Temmuz <br/> .Net ekosisteminde TDD </a>
     </div>
   </div>
 </div>
