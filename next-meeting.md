@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/07/28/net-tdd
+redirect_url: meetings/2016/08/04/net-tdd-02
 ---

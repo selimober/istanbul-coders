@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 28 Temmuz <br/> .Net ekosisteminde TDD </a>
+      <a href="next-meeting">Sonraki Buluşma : 04 Agustos <br/> .Net ekosisteminde TDD </a>
     </div>
   </div>
 </div>
