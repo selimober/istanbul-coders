@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 11 Agustos <br/> Cok calismak abartilmis bir erdemdir! </a>
+      <a href="next-meeting">Sonraki Buluşma : 18 Agustos <br/> Eva CyanLog Yapay Zeka Plaftormu </a>
     </div>
   </div>
 </div>
