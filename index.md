@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 18 Agustos <br/> Eva CyanLog Yapay Zeka Plaftormu </a>
+      <a href="next-meeting">Sonraki Buluşma : 25 Agustos <br/> Bütün Yönleri ile Docker </a>
     </div>
   </div>
 </div>
