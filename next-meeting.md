@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/08/25/butun-yonleri-ile-docker
+redirect_url: meetings/2016/09/21/create-wordpress-with-aws-services
 ---

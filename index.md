@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 25 Agustos <br/> Bütün Yönleri ile Docker </a>
+      <a href="next-meeting">Sonraki Buluşma : 01 Eylül <br/> Create scalable, secure and durable wordpress site in AWS </a>
     </div>
   </div>
 </div>
