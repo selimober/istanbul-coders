@@ -26,7 +26,8 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 01 Eylül <br/> Create scalable, secure and durable wordpress site in AWS </a>
+      <a href="next-meeting">Sonraki Buluşma : 07 Eylül <br/> Boost Your Productivity With SublimeText for web development
+ </a>
     </div>
   </div>
 </div>
