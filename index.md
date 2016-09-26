@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 22 Eylül <br/> Uygulamalar ile Docker</a>
+      <a href="next-meeting">Sonraki Buluşma : 29 Eylül <br/> Apache Spark'a Giris</a>
     </div>
   </div>
 </div>
