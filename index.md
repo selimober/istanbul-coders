@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 6 Ekim <br/> JavaScript ile Masaustu Uygulama Gelistirme</a>
+      <a href="next-meeting">Sonraki Buluşma : 13 Ekim <br/> Engineer to Entrepreneur Startup Basics for Techies</a>
     </div>
   </div>
 </div>

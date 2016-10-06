@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/10/06/javascript-desktop.md
+redirect_url: meetings/2016/10/13/engineer-to-entrepreneur.md
 ---
