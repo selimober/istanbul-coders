@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter:
 speaker-photo:
 venue: Bahcesehir Universitesi Besiktas Kampus
-title: Acik Oturum - Open Session
+title: Acik Oturum - Open Session 27.10
 ---
 Merhaba arkadaslar,
 
@@ -25,11 +25,11 @@ Ornegin:
 
 gibi pek cok soruya birlikte cevap arayacagiz.
 
-Konusma diline gruplar karar verecektir | Conversation language will be decided by group attendees 
+Konusma diline gruplar karar verecektir | Conversation language will be decided by group attendees
 
 **Konu:**
 
-Acik Oturum - Open Session
+Acik Oturum - Open Session 27.10
 
 **Konusmaci:**
 
