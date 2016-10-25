@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 20 Ekim <br/> Apache Kafka 101</a>
+      <a href="next-meeting">Sonraki Buluşma : 27 Ekim <br/> Açık Oturum</a>
     </div>
   </div>
 </div>
