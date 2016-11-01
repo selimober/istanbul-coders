@@ -1,6 +1,6 @@
 name: "Istanbul Coders"
-markdown: rdiscount
-pygments: true
+markdown: kramdown
 permalink: pretty
 exclude: ['Gemfile', 'Gemfile.lock', 'istanbul-coders.sublime-project']
 timezone: Europe/Istanbul
+future: true

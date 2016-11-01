@@ -4,12 +4,13 @@ layout: home
 
 <!-- Side Menu -->
 <div id="sidebar-wrapper">
-<a id="menu-toggle" href="#" class="btn btn-primary btn-lg toggle"><i class="icon-reorder"></i></a>
+  <a id="menu-toggle" href="#" class="btn btn-primary btn-lg toggle"><i class="icon-reorder"></i></a>
   <ul class="sidebar-nav">
     <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"><i class="icon-remove"></i></a>
     <li class="sidebar-brand"><a href="http://www.istanbulcoders.org">Istanbul Coders</a></li>
-    <li><a href="/next-meeting">Bir sonraki buluşma</a></li>
+    <li><a href="/calendar">Etkinlik Takvimi</a></li>
     <li><a href="/past-meetings">Geçmiş buluşmalar</a></li>
+    <li><a href="/sponsorship">Sponsorluk</a></li>
     <li><a href="/contact">İletişim</a></li>
   </ul>
 </div>
@@ -18,15 +19,18 @@ layout: home
 <!-- Full Page Image Header Area -->
 <div class="header">
   <div class="vert-text">
-    <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />    
+    <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
-    <a href="#intro" class="btn btn-default btn-lg">Keşfet</a>
+    <a href="https://groups.google.com/forum/#!forum/istanbul-coders" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
   </div>
-  <div class="ribbon-wrapper-green"><div class="ribbon-green"><a href="/next-meeting">
-    Sonraki Buluşma : 21 Kasım <br/>
-    Java 8 - Project Lambda
-  </a></div></div>
+
+  <div class="ribbon-wrapper-green">
+  	<div class="ribbon-green">
+      <a href="next-meeting">Sonraki Buluşma : 27 Ekim <br/> Açık Oturum</a>
+    </div>
+  </div>
 </div>
+
 <!-- /Full Page Image Header Area -->
 
 <!-- Intro -->
@@ -107,24 +111,24 @@ layout: home
     <div class="row">
       <div class="col-md-4 col-md-offset-2 text-center">
         <div class="portfolio-item">
-          <a href="#"><img class="img-portfolio img-responsive" src="/assets/img/home-meeting-1.jpeg"></a>
+          <img class="img-portfolio img-responsive" src="/assets/img/home-meeting-1.jpeg" alt="istanbul coders" />
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="portfolio-item">
-          <a href="#"><img class="img-portfolio img-responsive" src="/assets/img/home-meeting-2.jpeg"></a>
+          <img class="img-portfolio img-responsive" src="/assets/img/home-meeting-2.jpeg" alt="istanbul coders" />
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-md-4 col-md-offset-2 text-center">
         <div class="portfolio-item">
-          <a href="#"><img class="img-portfolio img-responsive" src="/assets/img/home-meeting-3.jpeg"></a>
+          <img class="img-portfolio img-responsive" src="/assets/img/home-meeting-3.jpeg" alt="istanbul coders" />
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="portfolio-item">
-          <a href="#"><img class="img-portfolio img-responsive" src="/assets/img/home-meeting-4.jpeg"></a>
+          <img class="img-portfolio img-responsive" src="/assets/img/home-meeting-4.jpeg" alt="istanbul coders" />
         </div>
       </div>
     </div>
@@ -138,7 +142,7 @@ layout: home
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
         <h3>Mail listemize katılın!</h3>
-        <a href="https://groups.google.com/forum/#!forum/istanbul-coders">https://groups.google.com/forum/#!forum/istanbul-coders</a>
+        <a href="https://groups.google.com/forum/#!forum/istanbul-coders">groups.google.com/forum/#!forum/istanbul-coders</a>
       </div>
     </div>
   </div>
@@ -151,15 +155,15 @@ layout: home
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
         <ul class="list-inline">
-          <li><i class="icon-facebook icon-2x"></i></li>
-          <li><i class="icon-twitter icon-2x"></i></li>
-          <li><i class="icon-dribbble icon-2x"></i></li>
+         <li><a href="http://meetup.com/Istanbul-Hackers/"><i class="icon-calendar icon-2x"></i></a></li>
+          <li><a href="https://www.facebook.com/groups/istanbul.hackers/"><i class="icon-facebook icon-2x"></i></a></li>
+          <li><a href="https://twitter.com/istanbulcoders"><i class="icon-twitter icon-2x"></i></a></li>
+          <li><a href="https://github.com/istanbul-coders"><i class="icon-github icon-2x"></i></a></li>
         </ul>
         <hr>
-        <p>Copyright &copy; Istanbul Coders 2013</p>
+        <p>Copyright &copy; Istanbul Coders 2016</p>
       </div>
     </div>
   </div>
 </div>
 <!-- /Footer -->
-

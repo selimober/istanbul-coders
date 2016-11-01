@@ -7,9 +7,8 @@ layout: default
 
     <h2>Neler yaptık?</h2>
 
-    <p>Bu güne kadar olan 30'un üzerindeki diğer buluşmalarımıza göz atmak için <a href="http://www.meetup.com/Istanbul-Hackers#past">meetup</a> sayfamıza bakabilirsiniz.</p>
+    <p>Bu güne kadar olan 100'un üzerindeki diğer buluşmalarımıza göz atmak için <a href="http://www.meetup.com/Istanbul-Hackers#past">meetup</a> sayfamıza bakabilirsiniz.</p>
 
-    <p>Sitemiz yeni olduğu için bu bölüm henüz boş, fakat buluşmalar/etkinlikler gerçekleştikçe burada sıralanacaklar.</p>
 
   </div>
 </div>

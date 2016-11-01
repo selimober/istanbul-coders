@@ -26,3 +26,14 @@ Bu hafta Isa bizlere Java 8 ile beraber gelecek olan ve kod adı project lambda 
 * Parallel Streams
 * Infinite Streams
 
+Presentasyon'da gosterilen kodlara [Github Reposu'ndan](https://github.com/istanbul-coders/java-8-playground) erisebilirsiniz.
+
+Birkaç kare için:
+<a href="/assets/meetups/2013-11-21-java8-1/20131121_190245.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_190245.jpg" class="meeting-thumb"></a>
+<a href="/assets/meetups/2013-11-21-java8-1/20131121_194117.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_194117.jpg" class="meeting-thumb"></a>
+<a href="/assets/meetups/2013-11-21-java8-1/20131121_190232.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_190232.jpg" class="meeting-thumb"></a>
+<a href="/assets/meetups/2013-11-21-java8-1/20131121_184737.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_184737.jpg" class="meeting-thumb"></a>
+<a href="/assets/meetups/2013-11-21-java8-1/20131121_194143.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_194143.jpg" class="meeting-thumb"></a>
+<a href="/assets/meetups/2013-11-21-java8-1/20131121_194130.jpg"><img src="/assets/meetups/2013-11-21-java8-1/20131121_194130.jpg" class="meeting-thumb"></a>
+
+
